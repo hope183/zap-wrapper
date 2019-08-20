@@ -1,7 +1,6 @@
 package logger
 
 import (
-	"github.com/qiangxue/fasthttp-routing"
 	"strings"
 
 	"go.uber.org/zap"
